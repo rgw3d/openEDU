@@ -28,3 +28,8 @@ test/coverage/*
 .sass-cache
 
 dist/*
+*.json~
+*.js~
+*.html~
+*.css~
+*.sass~
